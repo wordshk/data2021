@@ -1,4 +1,4 @@
-Copyright (C) 2021 Hong Kong Lexicography Limited.
+Copyright (C) 2014-2021 Hong Kong Lexicography Limited.
 
 Attribution-NonCommercial 4.0 International
 
